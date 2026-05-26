@@ -1,5 +1,5 @@
 # Task3
-#html part
+# HTML part
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +60,10 @@
 
 </body>
 </html>
-#Css part
+
+
+
+# CSS Part
 /* =========================
    CSS VARIABLES
 ========================= */
@@ -243,7 +246,13 @@ h1 {
     justify-content: flex-end;
   }
 }
-#Js part
+
+
+
+
+
+# JS Part
+
 /* =========================
    STATE MANAGEMENT
 ========================= */
